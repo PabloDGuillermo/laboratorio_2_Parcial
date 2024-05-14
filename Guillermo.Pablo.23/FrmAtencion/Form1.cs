@@ -9,6 +9,11 @@ namespace FrmAtencion
             InitializeComponent();
         }
 
+        public DialogResult Salir()
+        {
+            return MessageBox.Show("¿Seguro que desea salir?", "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+        }
+
         private void FrmAtencion_Load(object sender, EventArgs e)
         {
             lstMedicos.Items.Add(new PersonalMedico("Gustavo", "Rivas", new DateTime(1999, 12, 12), false));
@@ -40,7 +45,27 @@ namespace FrmAtencion
 
         private void lstMedicos_SelectedIndexChanged(object sender, EventArgs e)
         {
-            rtbInfoMedico.Text = Persona.FichaPersonal((PersonalMedico)lstMedicos.SelectedItem);
+            if (lstMedicos.SelectedItem is not null)
+            {
+                rtbInfoMedico.Text = Persona.FichaPersonal((PersonalMedico)lstMedicos.SelectedItem);
+            }
+            else
+            {
+                rtbInfoMedico.Clear();
+            }
+        }
+
+        private void FrmAtencion_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if ((MessageBox.Show("¿Seguro que desea salir?", "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question)) != DialogResult.Yes)
+            {
+                e.Cancel = true;
+            }
+        }
+
+        private void btnSalir_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

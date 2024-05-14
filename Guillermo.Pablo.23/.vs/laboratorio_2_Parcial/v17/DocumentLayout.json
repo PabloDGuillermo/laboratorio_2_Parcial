@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E9DA594-74B7-442E-8258-B197483F6E33}|FrmAtencion\\FrmAtencion.csproj|C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\frmatencion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E9DA594-74B7-442E-8258-B197483F6E33}|FrmAtencion\\FrmAtencion.csproj|solutionrelative:frmatencion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DA594-74B7-442E-8258-B197483F6E33}|FrmAtencion\\FrmAtencion.csproj|C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\frmatencion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DA594-74B7-442E-8258-B197483F6E33}|FrmAtencion\\FrmAtencion.csproj|solutionrelative:frmatencion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9DA594-74B7-442E-8258-B197483F6E33}|FrmAtencion\\FrmAtencion.csproj|C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\frmatencion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E9DA594-74B7-442E-8258-B197483F6E33}|FrmAtencion\\FrmAtencion.csproj|solutionrelative:frmatencion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465F6A29-826A-40B1-9CF3-0781661E3090}|ClassLibrary1\\BDC_Parcial.csproj|C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\classlibrary1\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F6A29-826A-40B1-9CF3-0781661E3090}|ClassLibrary1\\BDC_Parcial.csproj|solutionrelative:classlibrary1\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{465F6A29-826A-40B1-9CF3-0781661E3090}|ClassLibrary1\\BDC_Parcial.csproj|c:\\users\\pablo\\source\\repos\\laboratorio_2_parcial\\guillermo.pablo.23\\classlibrary1\\personalmedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{465F6A29-826A-40B1-9CF3-0781661E3090}|ClassLibrary1\\BDC_Parcial.csproj|solutionrelative:classlibrary1\\personalmedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E9DA594-74B7-442E-8258-B197483F6E33}|FrmAtencion\\FrmAtencion.csproj|c:\\users\\pablo\\source\\repos\\laboratorio_2_parcial\\guillermo.pablo.23\\frmatencion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E9DA594-74B7-442E-8258-B197483F6E33}|FrmAtencion\\FrmAtencion.csproj|solutionrelative:frmatencion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{465F6A29-826A-40B1-9CF3-0781661E3090}|ClassLibrary1\\BDC_Parcial.csproj|c:\\users\\pablo\\source\\repos\\laboratorio_2_parcial\\guillermo.pablo.23\\classlibrary1\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{465F6A29-826A-40B1-9CF3-0781661E3090}|ClassLibrary1\\BDC_Parcial.csproj|solutionrelative:classlibrary1\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{465F6A29-826A-40B1-9CF3-0781661E3090}|ClassLibrary1\\BDC_Parcial.csproj|c:\\users\\pablo\\source\\repos\\laboratorio_2_parcial\\guillermo.pablo.23\\classlibrary1\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{465F6A29-826A-40B1-9CF3-0781661E3090}|ClassLibrary1\\BDC_Parcial.csproj|solutionrelative:classlibrary1\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{465F6A29-826A-40B1-9CF3-0781661E3090}|ClassLibrary1\\BDC_Parcial.csproj|c:\\users\\pablo\\source\\repos\\laboratorio_2_parcial\\guillermo.pablo.23\\classlibrary1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{465F6A29-826A-40B1-9CF3-0781661E3090}|ClassLibrary1\\BDC_Parcial.csproj|C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\classlibrary1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{465F6A29-826A-40B1-9CF3-0781661E3090}|ClassLibrary1\\BDC_Parcial.csproj|solutionrelative:classlibrary1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E9DA594-74B7-442E-8258-B197483F6E33}|FrmAtencion\\FrmAtencion.csproj|c:\\users\\pablo\\source\\repos\\laboratorio_2_parcial\\guillermo.pablo.23\\frmatencion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4E9DA594-74B7-442E-8258-B197483F6E33}|FrmAtencion\\FrmAtencion.csproj|solutionrelative:frmatencion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E9DA594-74B7-442E-8258-B197483F6E33}|FrmAtencion\\FrmAtencion.csproj|c:\\users\\pablo\\source\\repos\\laboratorio_2_parcial\\guillermo.pablo.23\\frmatencion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E9DA594-74B7-442E-8258-B197483F6E33}|FrmAtencion\\FrmAtencion.csproj|solutionrelative:frmatencion\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{465F6A29-826A-40B1-9CF3-0781661E3090}|ClassLibrary1\\BDC_Parcial.csproj|C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\classlibrary1\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465F6A29-826A-40B1-9CF3-0781661E3090}|ClassLibrary1\\BDC_Parcial.csproj|solutionrelative:classlibrary1\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 73,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\FrmAtencion\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "FrmAtencion\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\FrmAtencion\\Form1.Designer.cs",
               "RelativeToolTip": "FrmAtencion\\Form1.Designer.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAvwDgAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T22:50:01.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\FrmAtencion\\Form1.cs",
               "RelativeDocumentMoniker": "FrmAtencion\\Form1.cs",
@@ -71,26 +71,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\FrmAtencion\\Form1.cs",
               "RelativeDocumentMoniker": "FrmAtencion\\Form1.cs",
               "ToolTip": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\FrmAtencion\\Form1.cs",
               "RelativeToolTip": "FrmAtencion\\Form1.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAwwCoAAABgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T22:42:28.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Consulta.cs",
               "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\ClassLibrary1\\Consulta.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Consulta.cs",
               "ToolTip": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\ClassLibrary1\\Consulta.cs",
               "RelativeToolTip": "ClassLibrary1\\Consulta.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBsAAAAJAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T22:10:51.214Z",
               "EditorCaption": ""
@@ -103,33 +103,33 @@
               "RelativeDocumentMoniker": "ClassLibrary1\\Paciente.cs",
               "ToolTip": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\ClassLibrary1\\Paciente.cs",
               "RelativeToolTip": "ClassLibrary1\\Paciente.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBcAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T22:10:43.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "PersonalMedico.cs",
               "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\ClassLibrary1\\PersonalMedico.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\PersonalMedico.cs",
               "ToolTip": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\ClassLibrary1\\PersonalMedico.cs",
               "RelativeToolTip": "ClassLibrary1\\PersonalMedico.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowBgAAAArAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T22:07:18.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\ClassLibrary1\\Persona.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Persona.cs",
               "ToolTip": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\ClassLibrary1\\Persona.cs",
               "RelativeToolTip": "ClassLibrary1\\Persona.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDAAAAAzAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwC4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T20:56:10.874Z",
               "EditorCaption": ""

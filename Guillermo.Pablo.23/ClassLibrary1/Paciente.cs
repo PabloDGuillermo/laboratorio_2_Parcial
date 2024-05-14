@@ -25,7 +25,7 @@ namespace BDC_Parcial
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.Append(Persona.FichaPersonal(this));
+            sb.AppendLine($"Reside en: {this.barrioResidencia}");
             sb.AppendLine($"Diagnóstico: {this.diagnostico}");
 
             return sb.ToString();

@@ -55,6 +55,7 @@
             btnSalir.TabIndex = 1;
             btnSalir.Text = "Salir";
             btnSalir.UseVisualStyleBackColor = true;
+            btnSalir.Click += btnSalir_Click;
             // 
             // lblMedicos
             // 
@@ -116,6 +117,7 @@
             Name = "FrmAtencion";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Pablo Guillermo";
+            FormClosing += FrmAtencion_FormClosing;
             Load += FrmAtencion_Load;
             ResumeLayout(false);
             PerformLayout();

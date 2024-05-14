@@ -16,19 +16,31 @@ namespace BDC_Parcial
         public PersonalMedico(string nombre, string apellido, DateTime nacimiento, bool esResidente):base(nombre, apellido, nacimiento)
         {
             this.esResidente = esResidente;
+            consultas = new List<Consulta>();
         }
 
         internal override string FichaExtra()
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine($"¿Finalizó residencia?: {this.esResidente}");
-            sb.AppendLine("ATENCIONES:");
-            foreach (Consulta consulta in this.consultas)
+            sb.Append($"¿Finalizó residencia?: ");
+            if (this.esResidente)
             {
-                sb.AppendLine(consulta.ToString());
+                sb.AppendLine("Si");
             }
-            
+            else
+            {
+                sb.AppendLine("No");
+            }
+            sb.AppendLine("ATENCIONES:");
+            if(this.consultas.Count > 0)
+            {
+                foreach (Consulta consulta in this.consultas)
+                {
+                    sb.AppendLine(consulta.ToString());
+                }
+            }
+
             return sb.ToString();
         }
 

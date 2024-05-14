@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BDC_Parcial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d8df9f898c039a41bbaa62cbbeb48c300af19b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+369a3e5b77e6b66632ba52923d84e78aa7b3091c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BDC_Parcial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BDC_Parcial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

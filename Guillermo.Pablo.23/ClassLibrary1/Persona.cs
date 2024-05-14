@@ -44,10 +44,7 @@ namespace BDC_Parcial
 
             sb.AppendLine($"Nombre completo: {p.ToString()}");
             sb.AppendLine($"EDAD: {p.Edad}");
-            if(p is PersonalMedico medico)
-            {
-                sb.AppendLine(medico.FichaExtra());
-            }
+            sb.AppendLine(p.FichaExtra());
 
             return sb.ToString();
         }
