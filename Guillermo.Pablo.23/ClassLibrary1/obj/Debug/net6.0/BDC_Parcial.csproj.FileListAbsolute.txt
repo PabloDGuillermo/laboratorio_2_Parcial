@@ -1,0 +1,12 @@
+C:\Users\pablo\source\repos\laboratorio_2_Parcial\Guillermo.Pablo.23\ClassLibrary1\bin\Debug\net6.0\BDC_Parcial.deps.json
+C:\Users\pablo\source\repos\laboratorio_2_Parcial\Guillermo.Pablo.23\ClassLibrary1\bin\Debug\net6.0\BDC_Parcial.dll
+C:\Users\pablo\source\repos\laboratorio_2_Parcial\Guillermo.Pablo.23\ClassLibrary1\bin\Debug\net6.0\BDC_Parcial.pdb
+C:\Users\pablo\source\repos\laboratorio_2_Parcial\Guillermo.Pablo.23\ClassLibrary1\obj\Debug\net6.0\BDC_Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\source\repos\laboratorio_2_Parcial\Guillermo.Pablo.23\ClassLibrary1\obj\Debug\net6.0\BDC_Parcial.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\laboratorio_2_Parcial\Guillermo.Pablo.23\ClassLibrary1\obj\Debug\net6.0\BDC_Parcial.AssemblyInfo.cs
+C:\Users\pablo\source\repos\laboratorio_2_Parcial\Guillermo.Pablo.23\ClassLibrary1\obj\Debug\net6.0\BDC_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\laboratorio_2_Parcial\Guillermo.Pablo.23\ClassLibrary1\obj\Debug\net6.0\BDC_Parcial.sourcelink.json
+C:\Users\pablo\source\repos\laboratorio_2_Parcial\Guillermo.Pablo.23\ClassLibrary1\obj\Debug\net6.0\BDC_Parcial.dll
+C:\Users\pablo\source\repos\laboratorio_2_Parcial\Guillermo.Pablo.23\ClassLibrary1\obj\Debug\net6.0\refint\BDC_Parcial.dll
+C:\Users\pablo\source\repos\laboratorio_2_Parcial\Guillermo.Pablo.23\ClassLibrary1\obj\Debug\net6.0\BDC_Parcial.pdb
+C:\Users\pablo\source\repos\laboratorio_2_Parcial\Guillermo.Pablo.23\ClassLibrary1\obj\Debug\net6.0\ref\BDC_Parcial.dll

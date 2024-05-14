@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "BDC_Parcial/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BDC_Parcial.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BDC_Parcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BDC_Parcial/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary1/BDC_Parcial.csproj",
+      "msbuildProject": "../ClassLibrary1/BDC_Parcial.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "BDC_Parcial >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pablo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\FrmAtencion\\FrmAtencion.csproj",
+      "projectName": "FrmAtencion",
+      "projectPath": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\FrmAtencion\\FrmAtencion.csproj",
+      "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\FrmAtencion\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\ClassLibrary1\\BDC_Parcial.csproj": {
+              "projectPath": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\ClassLibrary1\\BDC_Parcial.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\ClassLibrary1\\ClassLibrary1.csproj",
-      "projectName": "ClassLibrary1",
-      "projectPath": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectUniqueName": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\ClassLibrary1\\BDC_Parcial.csproj",
+      "projectName": "BDC_Parcial",
+      "projectPath": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\ClassLibrary1\\BDC_Parcial.csproj",
       "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\pablo\\source\\repos\\laboratorio_2_Parcial\\Guillermo.Pablo.23\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",

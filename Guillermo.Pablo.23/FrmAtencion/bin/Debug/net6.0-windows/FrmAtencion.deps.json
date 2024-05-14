@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FrmAtencion/1.0.0": {
+        "dependencies": {
+          "BDC_Parcial": "1.0.0"
+        },
+        "runtime": {
+          "FrmAtencion.dll": {}
+        }
+      },
+      "BDC_Parcial/1.0.0": {
+        "runtime": {
+          "BDC_Parcial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FrmAtencion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BDC_Parcial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
